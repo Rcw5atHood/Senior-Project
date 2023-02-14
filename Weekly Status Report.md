@@ -1,8 +1,8 @@
-<center># Adventure Around The World
+# Adventure Around The World
 
 Over Night Express  
 https://github.com/Rcw5atHood/Senior-Project  
-Jack Carr (jac26@Hood.Edu); Rich Williams  (rcw5@Hood.Edu)</center>
+Jack Carr (jac26@Hood.Edu); Rich Williams  (rcw5@Hood.Edu)
 
 
 ## WEEK 1 (Feb 20- Feb 27)
