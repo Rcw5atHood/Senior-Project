@@ -47,13 +47,23 @@ To run the game, navigate to the project directory and run the command `python m
 - **Jack Carr** - *Software Developer* - [Your GitHub profile](https://github.com/Skyfeuer)
 - **Rich Williams** - *Software Developer* - [Your GitHub profile](https://github.com/Rcw5atHood)
 
+
+## License
+
+- All software, images, audio, and other media inputs used in this game are open source and free to use.
+
+
+
+
+Regenerate
+
 ## Acknowledgments
 
 - Many Choose your own adventure books read in a well spent youth
 - Adventure games, Board games, Table Top games, Online Adventures
 - Maps, Geography and Explorers
 
--Too Late for Tall Ships, To Early for Space Ships.
+- Too Late for Tall Ships &#x26F5;, Too Early for Space Ships &#x1F680;.
 
 
 
