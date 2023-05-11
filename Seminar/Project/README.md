@@ -1,1 +1,1 @@
-This is a place holder file for the Markdown readme.md doc
+Text File called README.md that includes team information (names, emails, title) and URL to your project repository. This README.md must provide information about your project, the structure of the directories of your repository, the software (and hardware, if any) tech stack used in your project, and detailed software or hardware configuration instructions to make your project reproducible by another senior in CS.
