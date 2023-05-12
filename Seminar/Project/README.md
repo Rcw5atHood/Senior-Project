@@ -14,7 +14,7 @@ Email: rcw5@hood.edu
 Title: Developer
 
 ## Repository
-URL: [Link to project repository](https://github.com/Rcw5atHood/Senior-Project/tree/main/Seminar)
+URL: [https://github.com/Rcw5atHood/Senior-Project/tree/main/Seminar](https://github.com/Rcw5atHood/Senior-Project/tree/main/Seminar)
 
 ## About The Project
 This is a travel adventure game where the player has a chance to visit various places, play different games at each destination, and enjoy a selection of soundtracks during the journey. The game includes features like choosing from different games to play at each location (Connect 4, Tic Tac Toe, or Tetris), a list of visited locations, a variable volume soundtrack, and win/lose scenarios for each game. The player can also skip to the next track if they want a different soundtrack.
@@ -122,5 +122,5 @@ Email: rcw5@hood.edu
 Title: Developer
 
 ## Acknowledgments
-(Show your appreciation to those who have contributed to the project)
+We would liket to take this opportunity to extend our deepest gratitude and appreciation.  Our esteemed professors, your wisdom and guidance have been the bedrock of our academic journey, providing clarity and sparking curiosity at every turn. To our unwavering families, your endless support and faith in our abilities have given us the strength to push our limits and aim for the stars. To our dedicated classmates, your collaboration and shared insights have created a dynamic and enriching learning environment that goes beyond the traditional classroom. Each one of you has played an invaluable role in our educational journey, and for that, we are profoundly thankful.
 
